@@ -3,7 +3,7 @@
 ## My contacts
 
 email: cxvint@gmail.com
-[telegram] (https://t.me/cxvint)
+[telegram](https://t.me/cxvint)
 
 ### About me
 
