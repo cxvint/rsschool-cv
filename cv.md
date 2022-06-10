@@ -2,8 +2,10 @@
 
 ## My contacts
 
-email: cxvint@gmail.com
-[telegram](https://t.me/cxvint)
+- **location**: Gomel, Belarus
+- **Phone**: +375 25 774-70-39
+- **Email**: cxvint@gmail.com
+- **Discord**: VinT#0727
 
 ### About me
 
