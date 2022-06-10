@@ -19,3 +19,23 @@ https://github.com/cxvint?tab=repositories
 ##### Education
 
 University education - BSUIR
+
+###### Code
+
+```
+function() {
+  a = {purchase};
+  var lst = '[';
+  for (var i=0; i<a.length; i++) {
+    var prod = a[i].id;
+    if (i==a.length-1) {
+      lst += prod;
+    }
+    else {
+    lst += prod + ',';
+    }
+  }
+  lst += ']';
+  return lst;
+}
+```
